@@ -1,3 +1,5 @@
+Portfolio Projects
+
 SQL Data Exploration: COVID-19 Dataset
 Performed exploratory data analysis (EDA) on COVID-19 datasets to uncover trends, patterns, and anomalies. Key techniques include:
 
